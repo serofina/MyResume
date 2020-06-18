@@ -1,0 +1,29 @@
+#container .name {font-weight: bold;
+color: whitesmoke;
+text-align: center;
+}
+#container {
+    background-image: url(https://i.pinimg.com/originals/7f/22/bd/7f22bd1107b49b5eac20ce21b80d6489.jpg);}
+
+#container .address {font-weight: bold;
+        color: whitesmoke;
+    text-align: center;
+}
+#container .contact {
+    font-weight: bold;
+    color: whitesmoke;
+    text-align: center;
+    border-bottom: 1px solid #ffffff;
+}
+
+#container .education { {font-weight: bold;
+    
+    color: whitesmoke;
+    text-align: center;
+    }
+
+#container .list {
+    font-style: oblique;
+    font-weight: bold;
+    color: aquamarine;
+}
