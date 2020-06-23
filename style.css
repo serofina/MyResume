@@ -1,29 +1,36 @@
-#container .name {font-weight: bold;
-color: whitesmoke;
-text-align: center;
+#container {
+  font-style: oblique;
+  color: darkblue;
+}
+#container .name {
+  font-weight: bold;
+  color: rgb(8, 118, 243);
+  text-align: center;
 }
 #container {
-    background-image: url(https://i.pinimg.com/originals/7f/22/bd/7f22bd1107b49b5eac20ce21b80d6489.jpg);}
-
-#container .address {font-weight: bold;
-        color: whitesmoke;
-    text-align: center;
+  background-image: url(https://ak.picdn.net/shutterstock/videos/14533228/thumb/2.jpg);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#container .address {
+  font-weight: bold;
+  color: rgb(21, 112, 248);
+  text-align: center;
 }
 #container .contact {
-    font-weight: bold;
-    color: whitesmoke;
-    text-align: center;
-    border-bottom: 1px solid #ffffff;
+  font-weight: bold;
+  color: rgb(31, 149, 245);
+  text-align: center;
+  border-bottom: 1px solid #ffffff;
 }
-
-#container .education { {font-weight: bold;
-    
-    color: whitesmoke;
-    text-align: center;
-    }
-
-#container .list {
-    font-style: oblique;
-    font-weight: bold;
-    color: aquamarine;
+#container .column {
+  float: left;
+  width: 10%;
+  padding: 6px;
+  height: 287px;
+  background-color: rgb(212, 193, 218);
+  font-style: initial;
+  color: blue;
 }
