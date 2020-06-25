@@ -34,3 +34,14 @@
   font-style: initial;
   color: blue;
 }
+
+@media (max-width: 992px) {
+  #container {
+    background-color: rgb(170, 54, 224);
+  }
+}
+@media (max-width: 768px) {
+  #container {
+    background-color: rgb(255, 217, 0);
+  }
+}
